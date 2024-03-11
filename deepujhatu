@@ -1,0 +1,7 @@
+#include<studio.h>
+void main()
+{
+  printf("deepak lodu...!!!!");
+
+  printf("\ndeepak ki gaf me diku ka di#k...!!");
+}
